@@ -1,10 +1,14 @@
-[HOME](.) | [LOG](TXT/mylog.txt) |
+---
+permalink: /
+---
 
-# Hello there!
+[HOME](.) | [LOG](TXT/mylog.txt) | [GITHUB](https://github.com/dzikriqalampacil/os212)
 
-## My name is Dzikri Qalam Hatorangan. 
-## This is a repository for Operating System (B) class 2021-2.
+# Hello there! :tent:
 
-My top 10 links every week:
+## My name is Dzikri Qalam Hatorangan.<br/>This is a repository for Operating System (B) class 2021-2.
+<br/>
+
+### My top 10 links every week:
 
 1. [Week 01](W01/)
