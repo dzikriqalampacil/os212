@@ -1,6 +1,6 @@
 [HOME](.) | [LOG](TXT/mylog.txt) | [GITHUB](https://github.com/dzikriqalampacil/os212)
 
-# Hello there!<br/>
+# Hello there! ⛺<br/>
 
 ## My name is Dzikri Qalam Hatorangan.<br/>This is my repository for Operating System (B) class 2021-2.
 
