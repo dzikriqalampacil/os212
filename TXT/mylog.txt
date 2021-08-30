@@ -2,3 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 30 L03 Github Related
+ZCZC W00 120 L02 ZOOM Meeting Related
+ZCZC W00 45 L30 Study OS Visual Metaphor at Udacity
+ZCZC W00 15 L83 Feeding and Petting my cat
