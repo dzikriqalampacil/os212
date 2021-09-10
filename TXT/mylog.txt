@@ -5,3 +5,10 @@ ZCZC W00 30 L03 Github Related
 ZCZC W00 120 L02 ZOOM Meeting Related
 ZCZC W00 45 L30 Study OS Visual Metaphor at Udacity
 ZCZC W00 15 L83 Feeding and Petting my cat
+ZCZC W01 120 L02 OS's ZOOM Meeting Related
+ZCZC W01 180 L08 Join Assistensi at Google Meet
+ZCZC W01 30 L11 Assignment #01
+ZCZC W01 30 L12 Assignment #02
+ZCZC W01 60 L13 Assignment #03 (Will spend more time for this section)
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 45 L80 Watching Exciting Stuff at Youtube

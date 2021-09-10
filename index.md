@@ -2,7 +2,7 @@
 
 # Hello there! ⛺<br/>
 
-## My name is Dzikri Qalam Hatorangan.<br/>This is my repository for Operating System (B) class 2021-2.
+## This is my repository for Operating System (B) class 2021-2.
 
 My top 10 links every week:
 
