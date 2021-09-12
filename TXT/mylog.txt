@@ -12,3 +12,6 @@ ZCZC W01 30 L12 Assignment #02
 ZCZC W01 60 L13 Assignment #03 (Will spend more time for this section)
 ZCZC W01 30 L14 Assignment #04
 ZCZC W01 45 L80 Watching Exciting Stuff at Youtube
+ZCZC W01 60 L15 Assignment #05
+ZCZC W01 30 L16 Assignment #06
+ZCZC W01 5 L17 Assignment #07
