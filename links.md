@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 # Top 3 Links of Week 01
 
 ## 1. [Short and Concise Linux Tutorial 2021](https://www.youtube.com/watch?v=BMGixkvJ-6w)
