@@ -23,3 +23,14 @@ If you want to understand Cryptography quickly you can just read this article. T
 
 ## 3. [Comprehensive List of All Types of Internet Threats](https://cybriant.com/comprehensive-list-of-all-types-of-internet-threats/)
 This article has a complete list of all the possibilities internet threats may come to offer. It also has a simple explanation right below each list so we know what each of these threats do.
+
+# Top Links of Week 03
+
+## 1. [FUSE 101](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+Official FUSE Documentation made by kernel itself. It's all have the Definitions, Mount Options, etc.
+
+## 2. [Simple Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+This contain a comprehensive explanation about Filesytem Hierarchy. I like this link because it is short but contain much information as much as the pdf was given in linux.
+
+## 3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+Very good video while also the most viewed video for Linux File System and Structure. If you ever get confused where to find things in Linux and where programs get installed? this video will explain what all the folders are for, and what's in them! 
