@@ -43,3 +43,13 @@ ZCZC W03 45 L17 Assignment #07
 ZCZC W03 15 L18 Assignment #08
 ZCZC W03 15 L19 Assignment #09
 ZCZC W03 15 L83 Playing with my cat again
+ZCZC W04 150 L11 Assignment #01
+ZCZC W04 90 L12 Assignment #02
+ZCZC W04 100 L13 Assignment #03
+ZCZC W04 15 L14 Assignment #04
+ZCZC W04 45 L15 Assignment #05
+ZCZC W04 60 L16 Assignment #06
+ZCZC W04 30 L17 Assignment #07
+ZCZC W04 15 L18 Assignment #08
+ZCZC W04 15 L19 Assignment #09
+ZCZC W04 90 L84 Relax and Chill

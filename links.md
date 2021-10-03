@@ -34,3 +34,14 @@ This contain a comprehensive explanation about Filesytem Hierarchy. I like this 
 
 ## 3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 Very good video while also the most viewed video for Linux File System and Structure. If you ever get confused where to find things in Linux and where programs get installed? this video will explain what all the folders are for, and what's in them! 
+
+# Top Links of Week 04
+
+## 1. [Why computer need data?](https://www.mvorganizing.org/what-is-the-importance-of-data-in-computer/)
+This article really explains everything from beginning. From what is data itself, and the functionality of it, to the extent of why computer need data.
+
+## 2. [More on little endian and big endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)
+To refresh our understanding about little endian and big endian we can read this simple article. This cover the entire things we need to undestand about big endian and little endian again.
+
+## 3. [Linux shared library 101](https://www.youtube.com/watch?v=RmdvkUWQ78g)
+If you're tired actively reading all the article I'm just given above, you could just watch this awesome video. This video explains what is linux shared library by definition and how it works. It's also have the hands on implementation right away.
