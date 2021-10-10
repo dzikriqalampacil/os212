@@ -45,3 +45,14 @@ To refresh our understanding about little endian and big endian we can read this
 
 ## 3. [Linux shared library 101](https://www.youtube.com/watch?v=RmdvkUWQ78g)
 If you're tired actively reading all the article I'm just given above, you could just watch this awesome video. This video explains what is linux shared library by definition and how it works. It's also have the hands on implementation right away.
+
+# Top Links of Week 05
+
+## 1. [What are the memory hierarchy and its tradeoffs?](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation_Chapter11.pdf)
+This article from Computer Science Brown University explain well what we learn in week 05. They make us understand what are the memory hierarchy and how it is built beside the tradeoffs of each element inside it.
+
+## 2. [Quick understanding about Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)
+An article that is simple and make you understand Virtual Memory faster. With it's friendly delivery and easy to understand vocabulary, this a way to go article to understand Virtual Memory.
+
+## 3. [Buddy Memory Allocation](https://www.youtube.com/watch?v=1pCC6pPAtio)
+To understand more about Memmory allocation algorithm, this video can help you out. It explains how Buddy System work in Memmory Allocation in a concise way.

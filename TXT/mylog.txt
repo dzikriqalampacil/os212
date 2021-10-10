@@ -53,3 +53,13 @@ ZCZC W04 30 L17 Assignment #07
 ZCZC W04 15 L18 Assignment #08
 ZCZC W04 15 L19 Assignment #09
 ZCZC W04 90 L84 Relax and Chill
+ZCZC W05 135 L11 Assignment #01
+ZCZC W05 100 L12 Assignment #02
+ZCZC W05 121 L13 Assignment #03
+ZCZC W05 63 L14 Assignment #04
+ZCZC W05 90 L15 Assignment #05
+ZCZC W05 5 L16 Assignment #06
+ZCZC W05 45 L17 Assignment #07
+ZCZC W05 14 L18 Assignment #08
+ZCZC W05 12 L19 Assignment #09
+ZCZC W05 99 L84 More Relax and Chill especially saving up energy
