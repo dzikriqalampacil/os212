@@ -56,3 +56,14 @@ An article that is simple and make you understand Virtual Memory faster. With it
 
 ## 3. [Buddy Memory Allocation](https://www.youtube.com/watch?v=1pCC6pPAtio)
 To understand more about Memmory allocation algorithm, this video can help you out. It explains how Buddy System work in Memmory Allocation in a concise way.
+
+# Top Links of Week 06
+
+## 1. [Concurrency 101](https://www.javatpoint.com/concurrency-in-operating-system)
+Easy and simple to read for you to understand what does concurrency do in Operating System. This article also had the advantages and the disadvantages of concurrency.
+
+## 2. [Process Synchronization in Operating System](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+As we know the process of synchronization can be divided into two parts, Independent Process and Cooperative Process. Inside this article you can find the different between those two and another useful information about Process Synchronization.
+
+## 3. [Operating System Process State Visualization](https://www.youtube.com/watch?v=jZ_6PXoaoxo)
+To get a full insight about what is Process State and how does it work, this video is a way to go. This video show how process state works under the hood.
