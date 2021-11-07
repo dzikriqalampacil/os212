@@ -67,3 +67,14 @@ As we know the process of synchronization can be divided into two parts, Indepen
 
 ## 3. [Operating System Process State Visualization](https://www.youtube.com/watch?v=jZ_6PXoaoxo)
 To get a full insight about what is Process State and how does it work, this video is a way to go. This video show how process state works under the hood.
+
+# Top Links of Week 07
+
+## 1. [Shared Memory Explanations](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)
+Even though we may already heard shared memory before, this article will make your understanding about Shared Memory to the next level. It contains how to implement it in C programming languange also with some visualization.
+
+## 2. [Process Synchronization in Operating System](https://www.studytonight.com/operating-system/process-synchronization) 
+A complete reading material that cover Week07 subject. It has Critical Section problem, Peterson Solution, etc. Not too long to read but enough to prepare you for next Quiz.
+
+## 3. [What is Deadlock? Watch This](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+It is not a hairstyle. This video will guide you how to handle Deadlock whilst explain to you the concept of Deadlock.
