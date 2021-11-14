@@ -78,3 +78,14 @@ A complete reading material that cover Week07 subject. It has Critical Section p
 
 ## 3. [What is Deadlock? Watch This](https://www.youtube.com/watch?v=UVo9mGARkhQ)
 It is not a hairstyle. This video will guide you how to handle Deadlock whilst explain to you the concept of Deadlock.
+
+# Top Links of Week 08
+
+## 1. [Process Scheduling 101](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+This article contain pretty much you need to know about process scheduling. It has the definition of it and the process involved in it.
+
+## 2. [CPU and I/O Burst Cycles](https://www.youtube.com/watch?v=pVzb3TUcDLo)
+What is CPU Burst and it Cycles? Go read this article and let wisdom come to you.
+
+## 3. [How scheduling work in Linux?](https://www.youtube.com/watch?v=vF3KKMI3_1s)
+Don't be suprised if you some big O notation here because it is how its works. If you want to know more about scheduling in linux go watch this video.

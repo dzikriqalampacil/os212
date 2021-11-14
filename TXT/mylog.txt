@@ -81,4 +81,12 @@ ZCZC W07 70 L17 Assignment #07
 ZCZC W07 14 L18 Assignment #08
 ZCZC W07 12 L19 Assignment #09
 ZCZC W07 100 L84 Chilling
- 
+ZCZC W08 55 L11 Assignment #01
+ZCZC W08 70 L12 Assignment #02
+ZCZC W08 100 L13 Assignment #03
+ZCZC W08 180 L14 Assignment #04
+ZCZC W08 130 L15 Assignment #05
+ZCZC W08 80 L17 Assignment #07
+ZCZC W08 15 L18 Assignment #08
+ZCZC W08 13 L19 Assignment #09
+ZCZC W08 111 L84 Chilling
