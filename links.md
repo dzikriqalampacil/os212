@@ -89,3 +89,26 @@ What is CPU Burst and it Cycles? Go read this article and let wisdom come to you
 
 ## 3. [How scheduling work in Linux?](https://www.youtube.com/watch?v=vF3KKMI3_1s)
 Don't be suprised if you some big O notation here because it is how its works. If you want to know more about scheduling in linux go watch this video.
+
+# Top Links of Week 09
+
+## 1. [Definition of RAID](https://searchstorage.techtarget.com/definition/RAID)
+Redundant Array of Independent Disks or RAID is a way of storing the same data in different places on multiple hard disks. In this article, it also contains how RAID works, levels, and controller.
+
+## 2. [Memory Storage History over time](https://www.computerhistory.org/timeline/memory-storage/)
+This cool and neat design describe the history of memory storage by year. As time flies, we get much more memory storage and speed.
+
+## 3. [Different between Legacy BIOS and UEFI](https://www.computerhistory.org/timeline/memory-storage/)
+Still confused about Legacy BIOS and UEFI? This article will answer all your question. Written in Indonesian Language so it is more easier for us to understand.
+
+# Top Links of Week 10
+
+## 1. [Principles of I/O Hardware + Mini Quiz!](https://gcallah.github.io/OperatingSystems/IOHardware.html)
+If you want to begin to study for Week 10 (I/O System), this article should be your first destination. Why? because it talks about I/O system in general then you can have a quiz in it to test your previous reading.
+
+## 2. [Network Programming for newbie](https://internalpointers.com/post/network-programming-beginners-overview)
+This article contain a theoretical look at one of the most popular programming tools for exchanging data over computer networks. As we know Network Programming has been a trend in the recent decades. So what you're waiting for, read this article and enhance your operating system knowledge about the usability of Network Programming.
+
+## 3. [Differences between serial and parallel device](https://techdifferences.com/difference-between-serial-and-parallel-transmission.html)
+What are the characteristics of serial and parallel device? You will get the answer after you read this article.
+
